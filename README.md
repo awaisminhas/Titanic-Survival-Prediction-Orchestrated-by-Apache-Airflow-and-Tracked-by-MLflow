@@ -8,7 +8,7 @@ End-to-end Machine Learning pipeline for predicting survival on the Titanic data
 
 ## 1) Project Structure
 
-After unzipping the zip file you will get the following structure of directories.
+Your project structure should look like this.
 
 ```text
 .
@@ -22,11 +22,7 @@ Titanic Survival Prediction/
 │   └── generated at runtime
 ├── mlruns/
 │   └── generated at runtime by MLflow
-├── screenshots/
-│   └── Important screenshots from the project
-├── Technical_Report.pdf
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 ## 2) Prerequisites (Ubuntu)
