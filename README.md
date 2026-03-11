@@ -8,7 +8,7 @@ End-to-end Machine Learning pipeline for predicting survival on the Titanic data
 
 ## 1) Project Structure
 
-Recommended structure:
+After unzipping the zip file you will get the following structure of directories.
 
 ```text
 .
