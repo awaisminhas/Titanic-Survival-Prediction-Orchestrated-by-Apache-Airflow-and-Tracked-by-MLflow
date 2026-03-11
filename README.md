@@ -12,7 +12,7 @@ After unzipping the zip file you will get the following structure of directories
 
 ```text
 .
-mlops_assignment/
+Titanic Survival Prediction/
 ├── airflow/
 │   └── dags/
 │       └── mlops_airflow_mlflow_pipeline.py
