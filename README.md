@@ -12,6 +12,7 @@ Recommended structure:
 
 ```text
 .
+mlops_assignment/
 ├── airflow/
 │   └── dags/
 │       └── mlops_airflow_mlflow_pipeline.py
@@ -22,8 +23,8 @@ Recommended structure:
 ├── mlruns/
 │   └── generated at runtime by MLflow
 ├── screenshots/
-│   └── Here are important screenshots from the project
-├── Technical_Report.md
+│   └── Important screenshots from the project
+├── Technical_Report.pdf
 ├── requirements.txt
 └── README.md
 ```
