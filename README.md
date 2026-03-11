@@ -22,7 +22,7 @@ Recommended structure:
 ├── mlruns/
 │   └── generated at runtime by MLflow
 ├── screenshots/
-│   └── (you will save required screenshots here)
+│   └── Here are important screenshots from the project
 ├── Technical_Report.md
 ├── requirements.txt
 └── README.md
